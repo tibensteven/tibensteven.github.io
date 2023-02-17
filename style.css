@@ -1,4 +1,11 @@
 img{
+    margin-left: 10px;
+    padding-top: 5px;
     height: 10%;
     width: 10%;
+    transition: 0.5s;
+}
+img:hover{
+    height:16%;
+    width: 16%;
 }
